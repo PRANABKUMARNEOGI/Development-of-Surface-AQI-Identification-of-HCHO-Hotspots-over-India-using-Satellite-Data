@@ -7,9 +7,9 @@ Code of Conduct
 
 By participating in this project, you are expected to uphold our [Code of Conduct]([link to CODE_OF_CONDUCT.md]).
 
-How Can I Contribute?
+How Can I Contribute?'\n
 Reporting Bugs
-This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.\n
 Check the issue tracker: Before creating bug reports, please check the [Issue Tracker]([link to issue tracker]) to see if the problem has already been reported.
 
 Use a clear and descriptive title: Identify the problem easily.
@@ -33,7 +33,7 @@ Ready to contribute code? Follow these steps to get your changes merged:
 
 2.Clone the fork: Download the repository to your local machine.
 
-GIT BASH:-
+GIT BASH:-.\n
 git clone :https://github.com/PRANABKUMARNEOGI/Development-of-Surface-AQI-Identification-of-HCHO-Hotspots-over-India-using-Satellite-Data.git
 
 3.Create a branch: Create a new branch for your feature or bug fix. Use a descriptive name.
